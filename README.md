@@ -1,2 +1,3 @@
-# val
+# value
 given number
+
